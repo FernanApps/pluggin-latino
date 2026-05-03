@@ -1,5 +1,6 @@
 {
   "name": "Nuvio Latino",
+  "id":"org.nuvio.latino"
   "version": "12.12.23",
   "scrapers": [
     {
